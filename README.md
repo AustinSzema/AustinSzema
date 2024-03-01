@@ -1,5 +1,5 @@
 ### Hi I'm Austin and I am a Technical Game Designer currently studying at Northeastern University
-## I mainly use GitHub as version control for my game projects
+#### I mainly use GitHub as version control for my game projects
 <!--
 **AustinSzema/AustinSzema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
