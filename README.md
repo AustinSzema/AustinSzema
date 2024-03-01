@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi I'm Austin and I am a Technical Game Designer currently studying at Northeastern University
 <!--
 **AustinSzema/AustinSzema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
